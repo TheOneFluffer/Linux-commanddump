@@ -1,2 +1,4 @@
 Command to change hostname
 hostnamectl set-hostname client.example.com
+sudo nano /etc/hostname
+sudo nano /etc/hosts
