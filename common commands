@@ -1,1 +1,6 @@
 mkdir = create a new directory (Use the -p option is to ensure the path will be created)
+
+view processes on linux using the "ps" command
+ps –t pts/<number> - specify which TTY it is
+
+If you leave "su –", it will become root by default
