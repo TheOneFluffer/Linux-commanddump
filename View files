@@ -1,0 +1,4 @@
+cat = view file
+grep = look for specifics (e.g. grep session /tmp/practice)
+ls -l <file_path> = display current file attributes
+diff <folder_path> <folder_path2> = verify that both folders contains the same content
