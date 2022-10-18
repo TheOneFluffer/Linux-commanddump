@@ -1,0 +1,4 @@
+Shut down commands
+sudo init 0
+shutdown now
+shutdown now -r (restart)
