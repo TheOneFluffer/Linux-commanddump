@@ -1,0 +1,3 @@
+Cleaning stuff
+dnf clean all = clean all DNF/YUM cache
+clear - clear terminal
