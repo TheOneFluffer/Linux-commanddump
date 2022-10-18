@@ -1,0 +1,5 @@
+Cloning a media drive
+cd /run/media/root/OL-8-6-0-BaseOS-x86_64/ (change directory into inserted OS disk)
+tar cvf - . | (cd /var/ftp/pub/local_repo/; tar xvf -) (compress everything into local_repo)
+umount <file directory> = eject dvd / unmount drive
+find = locate targeted files
