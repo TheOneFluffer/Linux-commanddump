@@ -1,0 +1,9 @@
+If you are not in sudo, please add sudo at the front or be in root mode (#)
+
+nano /etc/network/interfaces(Debian)
+
+nmtui(Fedora)
+
+DNS Client Configuration
+
+/etc/resolv.conf (shortened version of ../run/systemd/resolve/stub-resolv.conf)
