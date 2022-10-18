@@ -1,0 +1,9 @@
+text editors - CLI
+vi
+nano
+
+How to use vi
+i = insert mode
+Esc = escape editing mode
+exit with saving = :wq!
+exit without saving = q!
