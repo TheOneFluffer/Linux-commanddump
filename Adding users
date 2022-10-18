@@ -1,0 +1,7 @@
+useradd <username> - add user
+passwd <username> - change/add user password
+groups - print the groups of a user account
+grupadd <groupname> - add a new group
+usermod -aG <groupname> <username> - add user to the group
+usermod -G <groupname> <username> - set user to only belong to specified group name
+chgrp <groupname> <file_path> = change group id to another groupname
