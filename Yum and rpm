@@ -1,0 +1,19 @@
+Installation software for Oracle Linux
+yum
+rpm
+
+Using rpm:
+rpm -i = install
+rpm -e = uninstall
+rpm --import  <path_to_key> = import public key to key repository
+rpm -q <package name> = query installed package
+rpm -qa = list all installed package using rpm
+
+Using yum:
+yum install	= Installs the specified packages
+remove = Removes the specified packages
+search = Searches package metadata for keywords
+info = Lists description
+update = Updates each package to the latest version
+repolist = Lists repositories
+history = Displays what has happened in past transactions
