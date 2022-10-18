@@ -1,0 +1,4 @@
+restorecon = restore context command
+Basically, the restorecon command will base on the current folder location to set (restore) the appropriate context for the file placed inside. 
+This command requires root privilege to run. Imagine if an adversary managed to place a harmful repository definition file in this folder, the added repository 
+will not work as its context is incompatible in this folder.
