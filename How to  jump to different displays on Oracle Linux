@@ -1,0 +1,4 @@
+Control-Alt-F2 : your first GUI display.
+Control-Alt-F3 to Control-Alt-F6: your virtual text terminals.
+Control-Alt-F1: Start to login to a new GUI display.
+Control-Alt-F7 to Control-Alt-F9: additional GUI sessions you have created via Control-Alt-F1
