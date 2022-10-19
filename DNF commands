@@ -1,0 +1,2 @@
+dnf install <package_name> = install package
+dnf remove <package_name> = remove package
