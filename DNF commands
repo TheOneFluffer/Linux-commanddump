@@ -1,2 +1,10 @@
 dnf install <package_name> = install package
 dnf remove <package_name> = remove package
+Information is in the repo files in '/etc/yum.repos.d'
+Look for rep file at cd/ etc/yol8.repoum.repos.d -> ls
+nano oracle-linux-
+nano uek-ol8.rep
+nano virt-ol8.repo
+dnf clean all = to remove
+dnf repolist = to check package
+dnf list =to install package
