@@ -1,0 +1,5 @@
+init 0 = shutdown
+init 1 = single-user
+init 3 = multi-user, text mode
+init 5 = multi-user, gui mode
+init 6 = reboot/restart
